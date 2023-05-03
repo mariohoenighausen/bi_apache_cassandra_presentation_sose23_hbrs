@@ -1,4 +1,4 @@
-# Presentation resources for the BI lecture of the Masters course at HBRS
+# Resources for a demonstration held on May 3rd for the BI lecture of the Masters course at HBRS
 
 ## Structure of the repository 
 [Source of the CSV file (Kaggle)](https://www.kaggle.com/datasets/flenderson/sales-analysis)
