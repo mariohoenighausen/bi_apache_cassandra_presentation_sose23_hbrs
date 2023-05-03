@@ -28,7 +28,7 @@
 
 3. Use cqlsh `docker exec -it cassandra-seed-node cqlsh`
 
-4. Activate conda environment `conda activate py310`
+4. Activate conda environment `conda activate <python-env-name>`
 
 5. Run analysis script `python3 python/analysis.py`
 
