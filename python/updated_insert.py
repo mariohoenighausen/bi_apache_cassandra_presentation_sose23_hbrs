@@ -94,7 +94,7 @@ with open('./data/SalesKaggle3.csv',newline='') as csvfile:
 
 row = session.execute("SELECT COUNT(*) FROM sales_by_sold_count;")
 for r in row:
-    print(r)
+    print(f"SELECT COUNT(*) FROM sales_by_sold_count; => {r}")
 
 session.shutdown()
 cluster.shutdown()
